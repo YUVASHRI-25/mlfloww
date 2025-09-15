@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/PYTHON/ML%20FLOW/mlruns/815954458841737306/93bedd2a8459477f8db12756e9137e18/artifacts
+end_time: 1757959304442
+entry_point_name: ''
+experiment_id: '815954458841737306'
+lifecycle_stage: active
+run_id: 93bedd2a8459477f8db12756e9137e18
+run_name: DBSCAN_Cluster_Counts
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757959304225
+status: 3
+tags: []
+user_id: yuvas

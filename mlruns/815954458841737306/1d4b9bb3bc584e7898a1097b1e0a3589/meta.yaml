@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/PYTHON/ML%20FLOW/mlruns/815954458841737306/1d4b9bb3bc584e7898a1097b1e0a3589/artifacts
+end_time: 1757955124092
+entry_point_name: ''
+experiment_id: '815954458841737306'
+lifecycle_stage: active
+run_id: 1d4b9bb3bc584e7898a1097b1e0a3589
+run_name: Skewness_Analysis
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757955123763
+status: 4
+tags: []
+user_id: yuvas

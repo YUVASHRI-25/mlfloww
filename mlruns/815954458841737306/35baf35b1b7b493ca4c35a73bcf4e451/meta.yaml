@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/PYTHON/ML%20FLOW/mlruns/815954458841737306/35baf35b1b7b493ca4c35a73bcf4e451/artifacts
+end_time: 1757958599298
+entry_point_name: ''
+experiment_id: '815954458841737306'
+lifecycle_stage: active
+run_id: 35baf35b1b7b493ca4c35a73bcf4e451
+run_name: PCA_Explained_Variance
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757958599074
+status: 3
+tags: []
+user_id: yuvas

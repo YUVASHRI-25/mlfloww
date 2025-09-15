@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/PYTHON/ML%20FLOW/mlruns/815954458841737306/a12847ef2d504e3d9298120b16a869a8/artifacts
+end_time: 1757959308223
+entry_point_name: ''
+experiment_id: '815954458841737306'
+lifecycle_stage: active
+run_id: a12847ef2d504e3d9298120b16a869a8
+run_name: Clustering_Comparison
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757959307413
+status: 3
+tags: []
+user_id: yuvas

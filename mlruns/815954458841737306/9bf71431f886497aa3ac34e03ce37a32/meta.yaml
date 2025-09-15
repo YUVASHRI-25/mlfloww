@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/PYTHON/ML%20FLOW/mlruns/815954458841737306/9bf71431f886497aa3ac34e03ce37a32/artifacts
+end_time: 1757958004564
+entry_point_name: ''
+experiment_id: '815954458841737306'
+lifecycle_stage: active
+run_id: 9bf71431f886497aa3ac34e03ce37a32
+run_name: KDistance_Plot
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757958004326
+status: 3
+tags: []
+user_id: yuvas

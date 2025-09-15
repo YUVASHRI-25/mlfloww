@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/PYTHON/ML%20FLOW/mlruns/815954458841737306/52233328d5c54ec3b16304e986800248/artifacts
+end_time: 1757958380458
+entry_point_name: ''
+experiment_id: '815954458841737306'
+lifecycle_stage: active
+run_id: 52233328d5c54ec3b16304e986800248
+run_name: KMeans_Silhouette_Scores
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757958379524
+status: 3
+tags: []
+user_id: yuvas

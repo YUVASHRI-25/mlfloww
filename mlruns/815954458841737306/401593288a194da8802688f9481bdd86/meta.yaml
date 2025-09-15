@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/PYTHON/ML%20FLOW/mlruns/815954458841737306/401593288a194da8802688f9481bdd86/artifacts
+end_time: 1757957866679
+entry_point_name: ''
+experiment_id: '815954458841737306'
+lifecycle_stage: active
+run_id: 401593288a194da8802688f9481bdd86
+run_name: KMeans_Elbow_Plot
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757957863518
+status: 3
+tags: []
+user_id: yuvas

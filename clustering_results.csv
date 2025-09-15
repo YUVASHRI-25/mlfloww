@@ -1,0 +1,4 @@
+Method,Clusters Found,Silhouette Score,Davies-Bouldin,ARI_vs_KMeans
+KMeans,5,0.232,1.133,1.0
+Hierarchical,5,0.199,1.225,0.491
+DBSCAN,2,-0.014,1.461,

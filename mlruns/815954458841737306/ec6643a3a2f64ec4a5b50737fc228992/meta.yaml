@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/PYTHON/ML%20FLOW/mlruns/815954458841737306/ec6643a3a2f64ec4a5b50737fc228992/artifacts
+end_time: 1757954285736
+entry_point_name: ''
+experiment_id: '815954458841737306'
+lifecycle_stage: active
+run_id: ec6643a3a2f64ec4a5b50737fc228992
+run_name: Data_Exploration
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757954285606
+status: 3
+tags: []
+user_id: yuvas

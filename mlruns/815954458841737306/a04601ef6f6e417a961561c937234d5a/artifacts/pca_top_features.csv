@@ -1,0 +1,4 @@
+PC1,PC2,PC3,PC4,PC5
+child_mort,imports,health,inflation,total_fer
+gdpp,exports,inflation,health,gdpp
+income,life_expec,exports,gdpp,income
