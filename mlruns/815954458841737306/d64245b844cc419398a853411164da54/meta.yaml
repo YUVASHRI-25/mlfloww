@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/PYTHON/ML%20FLOW/mlruns/815954458841737306/d64245b844cc419398a853411164da54/artifacts
+end_time: 1757994211720
+entry_point_name: ''
+experiment_id: '815954458841737306'
+lifecycle_stage: active
+run_id: d64245b844cc419398a853411164da54
+run_name: Correlation_Heatmap
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757994211305
+status: 3
+tags: []
+user_id: yuvas

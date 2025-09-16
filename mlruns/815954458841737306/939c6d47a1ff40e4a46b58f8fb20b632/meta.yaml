@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/PYTHON/ML%20FLOW/mlruns/815954458841737306/939c6d47a1ff40e4a46b58f8fb20b632/artifacts
+end_time: 1757994214458
+entry_point_name: ''
+experiment_id: '815954458841737306'
+lifecycle_stage: active
+run_id: 939c6d47a1ff40e4a46b58f8fb20b632
+run_name: PCA_5_Loadings
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757994214347
+status: 4
+tags: []
+user_id: yuvas

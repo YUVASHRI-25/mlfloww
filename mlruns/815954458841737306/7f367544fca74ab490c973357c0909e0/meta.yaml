@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/PYTHON/ML%20FLOW/mlruns/815954458841737306/7f367544fca74ab490c973357c0909e0/artifacts
+end_time: 1757994211286
+entry_point_name: ''
+experiment_id: '815954458841737306'
+lifecycle_stage: active
+run_id: 7f367544fca74ab490c973357c0909e0
+run_name: EDA_Plots
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757994210650
+status: 3
+tags: []
+user_id: yuvas

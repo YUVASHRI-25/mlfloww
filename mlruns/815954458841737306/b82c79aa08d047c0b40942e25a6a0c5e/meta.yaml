@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/PYTHON/ML%20FLOW/mlruns/815954458841737306/b82c79aa08d047c0b40942e25a6a0c5e/artifacts
+end_time: 1757994214074
+entry_point_name: ''
+experiment_id: '815954458841737306'
+lifecycle_stage: active
+run_id: b82c79aa08d047c0b40942e25a6a0c5e
+run_name: Scaling_Data
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757994214016
+status: 3
+tags: []
+user_id: yuvas
